@@ -14,7 +14,7 @@ localStorage.setItem("backip", "192.168.43.192:5000");
 localStorage.setItem("emailip", "192.168.43.192:8188");
 localStorage.setItem("fileip", "192.168.43.192:4999");
 
-project folders with defalt setting
+project folders with default settings
 
 courseweb : this project want to run front end server in port 3000. react use as technology
 service : this project want to run email server in port 8188. spring boot use as technology
